@@ -2,7 +2,7 @@ package com.ucsal.gestaoAula.model;
 
 public class Assunto {
 
-	private int attribute21;
+	private String nome;
 
 	private Disciplina disciplina;
 

@@ -4,4 +4,6 @@ public class Aula {
 
 	private Turma turma;
 
+	private Disciplina disciplina;
+
 }
